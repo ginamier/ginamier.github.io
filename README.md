@@ -1,2 +1,2 @@
-# ginamier..github.io
+# ginamier.github.io
 Portafolio Desarrollo Web Georgina Mier
