@@ -1,0 +1,33 @@
+.contact__button {
+   
+    display: inline-block; 
+    text-decoration: none; 
+    
+   
+    padding: 12px 25px; 
+    border: 2px solid #007bff; 
+    border-radius: 8px; 
+    
+    
+    font-family: 'Arial', sans-serif;
+    font-weight: 600; 
+    font-size: 16px;
+    color: #ffffff; 
+    background-color: #007bff; 
+    
+    
+    margin-left: 50px;
+    margin-top: 20px; 
+    
+    
+    transition: background-color 0.3s ease, transform 0.2s ease; 
+}
+
+
+.contact__button:hover {
+    background-color: #0056b3; 
+    color: #ffffff; 
+    cursor: pointer;
+    transform: translateY(-2px); 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+}
